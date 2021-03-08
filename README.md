@@ -1,0 +1,1 @@
+Ćwiczenie - połączenie z bazą danych - UPDATE, INSERT, DELETE
